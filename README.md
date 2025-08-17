@@ -7,7 +7,7 @@ The results are presented through one dashboard and two supporting worksheets.
 ## Dashboard
 
 ### Airline Performance and Delay Causes
-![Airline Performance](docs/images/airline_performance.png)  
+![Airline Performance](Airline_Performance.png)  
 [View Interactive Dashboard](https://public.tableau.com/views/FlightDelaysandCancellations_17550072797200/Dashboard1)
 
 This dashboard provides an overview of U.S. airline performance in 2015, focusing on total flights, average delay minutes, and the percentage of delayed flights.  
@@ -19,7 +19,7 @@ It also breaks down the main causes of delays—such as air system, late aircraf
 ## Worksheets
 
 ### 1. Delay Minutes by State (2015)
-![Delay by State](docs/images/delay_by_state.png)  
+![Delay by State](Delay_by_state.png)  
 [View Interactive Visualization](https://public.tableau.com/views/FlightsDelaybyState_17549479746870/Delaybystate)
 
 This visualization shows the geographic distribution of flight delay minutes across U.S. states in 2015.  
@@ -29,7 +29,7 @@ States with lighter colors indicate fewer delays and less overall impact.
 ---
 
 ### 2. Delay by Month (2015)
-![Monthly Delay Trend](docs/images/monthly_delay_trend.png)  
+![Monthly Delay Trend](Monthly_Delay_Trend.png)  
 [View Interactive Visualization](https://public.tableau.com/views/MonthlyFlightsDelay/Delaybymonth)
 
 This line chart tracks flight delays month by month in 2015, revealing clear seasonal patterns.  
