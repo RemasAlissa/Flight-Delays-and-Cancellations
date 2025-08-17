@@ -43,8 +43,7 @@ These insights highlight high-traffic periods where additional operational resou
 - Identifying seasonal patterns and geographic hotspots in flight delays  
 - Presenting data in a way that supports operational planning and decision-making  
 
-## Files
-- **Flights.pdf** – Documentation of the analysis  
+## Files 
 - **Flights Delay by State.twbx** – Packaged Tableau workbook  
 - Tableau Public links – Interactive dashboards available online  
 
