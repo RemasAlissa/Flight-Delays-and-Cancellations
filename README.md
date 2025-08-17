@@ -48,5 +48,4 @@ These insights highlight high-traffic periods where additional operational resou
 - Tableau Public links – Interactive dashboards available online  
 
 ## Conclusion
-This project demonstrates how Tableau can transform raw flight data into actionable insights.  
-By combining one dashboard and two worksheets, it highlights airline performance, seasonal trends, and regional challenges that affect millions of passengers each year.
+This project demonstrates how Tableau can transform raw flight data into actionable insights. By combining one dashboard and two worksheets, it highlights airline performance, seasonal trends, and regional challenges that affect millions of passengers each year.
